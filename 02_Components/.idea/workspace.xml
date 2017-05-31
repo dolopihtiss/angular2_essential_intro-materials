@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c75310-a1ef-4bc9-8591-29465067fadc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="list1.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Components/app/list1/list1.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="components-samples.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/components-samples.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-132">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter-host.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter-host.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="93" />
+    <option name="y" value="-9" />
+    <option name="width" value="1516" />
+    <option name="height" value="918" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_Samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_Samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_Samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_Samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Angular2\angular2_essential_intro-materials\02_Components\01_Components\app\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Angular2\angular2_essential_intro-materials\02_Components\01_Components\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c75310-a1ef-4bc9-8591-29465067fadc" name="Default" comment="" />
+      <created>1496212270633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496212270633</updated>
+      <workItem from="1496212272039" duration="6186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="93" y="-9" width="1516" height="918" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3360544" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03_Samples/app/app.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/app.module.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/main.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/main.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/app.routes.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/app.routes.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/lifecycle-samples.module.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/lifecycle-samples.module.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/index.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/index.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/01_ngOnInit/sample1-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/01_ngOnInit/sample1-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/01_ngOnInit/sample1.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/01_ngOnInit/sample1.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/04_AllEvents/sample4-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/04_AllEvents/sample4-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/04_AllEvents/sample4.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/04_AllEvents/sample4.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/02_ngOnChanges/sample2.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/02_ngOnChanges/sample2.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/02_ngOnChanges/sample2-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/02_ngOnChanges/sample2-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/03_ngOnChanges/sample3.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/03_ngOnChanges/sample3.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/03_ngOnChanges/sample3-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/02_lifecycle/03_ngOnChanges/sample3-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/index.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/index.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/components-samples.module.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/components-samples.module.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/01_styles/book.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/01_styles/book.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/01_styles/chapter.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/01_styles/chapter.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/03_output/timer-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/03_output/timer-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/03_output/timer.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/03_output/timer.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/05_projection/message-box.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/05_projection/message-box.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/05_projection/message-box-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/05_projection/message-box-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/04_componentProps/name-card.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/04_componentProps/name-card.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/04_componentProps/name-card-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/01_components/04_componentProps/name-card-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/index.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/index.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/child-and-content-samples.module.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/child-and-content-samples.module.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/01_viewChild/block.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/01_viewChild/block.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/01_viewChild/block-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/01_viewChild/block-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/item.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/item.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/list-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/list-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/list.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/03_viewContent/list.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/02_viewChildren/block2-host.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/02_viewChildren/block2-host.component.js.map" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/02_viewChildren/block2.component.js" />
+        <option value="$PROJECT_DIR$/03_Samples/app/03_child_and_content/02_viewChildren/block2.component.js.map" />
+        <option value="$PROJECT_DIR$/01_Components/app/app.component.js" />
+        <option value="$PROJECT_DIR$/01_Components/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/01_Components/app/app.module.js" />
+        <option value="$PROJECT_DIR$/01_Components/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/01_Components/app/main.js" />
+        <option value="$PROJECT_DIR$/01_Components/app/main.js.map" />
+        <option value="$PROJECT_DIR$/01_Components/app/list1/list1.component.js" />
+        <option value="$PROJECT_DIR$/01_Components/app/list1/list1.component.js.map" />
+        <option value="$PROJECT_DIR$/01_Components/app/list2/list2.component.js" />
+        <option value="$PROJECT_DIR$/01_Components/app/list2/list2.component.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/app.component.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/app.module.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/main.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/main.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/lists.routs.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/lists.routs.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/lists.module.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/lists.module.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/index.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/index.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/list1/list1.component.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/list1/list1.component.js.map" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/list2/list2.component.js" />
+        <option value="$PROJECT_DIR$/02_BarrelFiles/app/lists/list2/list2.component.js.map" />
+        <option value="$PROJECT_DIR$/../../test/app/inner.components/index.js.map" />
+        <option value="$PROJECT_DIR$/../../test/app/inner.components/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_Components/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/images/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/systemjs.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+            <element signature="e#178#225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/list1/attribute-binding.component.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Components/app/list1/list1.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/components-samples.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter-host.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Samples/app/01_components/02_input/counter.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
